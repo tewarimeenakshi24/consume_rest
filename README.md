@@ -1,1 +1,2 @@
-# consume_rest
+# consume-rest
+ Consume REST Service
